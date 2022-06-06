@@ -2,6 +2,7 @@
 * [1. Data Structures for Linear Algebra](#data-structures-la)
     * [1.1. What Linear Algebra Is?](#what-is-la)
     * [1.2. Linear Algebra Execise](#la-exercise1)
+    * [1.3. Tensors](#tensors)
 
 # 1.	Data Structures for Linear Algebra <a name="data-structures-la"></a>
 ## 1.1.	What Linear Algebra Is? <a name="what-is-la"></a>
@@ -22,3 +23,7 @@
 
 !["pic"](https://sun9-west.userapi.com/sun9-38/s/v1/if2/RwnGmktxEOj7SMhO1k58P4DPUXRLL_5mxavg0ZmJzeph0Tvw8RuCYW7ypI7Ga35ai1clR6MkvSDn4A_KPbD6OFga.jpg?size=2388x1792&quality=95&type=album "pic")
 !["123"](https://sun9-east.userapi.com/sun9-74/s/v1/if2/9xFchDgRqP0hzAvJMFQHwbTwJjmY2Oe-0xcC8tX9I4v07ixYeNUw_wiLHTLfSgdzoK81yz_9SULJAuSpnBDvy-Bu.jpg?size=1344x1792&quality=95&type=album "123")
+
+## 1.3. Tensors <a name="tensors"></a>
+
+!["123"](https://sun9-north.userapi.com/sun9-88/s/v1/if2/L1upchL4fE3p0HcGLWh0BsPP-lf5TI71VKgczaXeV_HE76UOEaF6xLTpYLeDfPZ0VBLR8yIgrf1NBr3G8c9aWI0-.jpg?size=2560x1263&quality=95&type=album "123")
