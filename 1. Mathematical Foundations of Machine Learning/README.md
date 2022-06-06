@@ -1,5 +1,3 @@
-# [SOURCE (ORIGIN)](https://github.com/jonkrohn/ML-foundations)
-
 # Content:
 * [1. Data Structures for Linear Algebra](#data-structures-la)
     * [1.1. What Linear Algebra Is?](#what-is-la)
