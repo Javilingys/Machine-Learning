@@ -4,6 +4,8 @@
     * [1.2. Linear Algebra Execise](#la-exercise1)
     * [1.3. Tensors](#tensors)
     * [1.4. Scalars](#scalars)
+    * [1.5. Vectors and Vector Transposition](#vectors)
+    * [1.6. Norms and Unit Vectors](#norms)
 
 # 1.	Data Structures for Linear Algebra <a name="data-structures-la"></a>
 ## 1.1.	What Linear Algebra Is? <a name="what-is-la"></a>
@@ -29,8 +31,15 @@
 
 !["123"](https://sun9-north.userapi.com/sun9-88/s/v1/if2/L1upchL4fE3p0HcGLWh0BsPP-lf5TI71VKgczaXeV_HE76UOEaF6xLTpYLeDfPZ0VBLR8yIgrf1NBr3G8c9aWI0-.jpg?size=2560x1263&quality=95&type=album "123")
 
-
 ## 1.4. Scalars <a name="scalars"></a>
 
 !["123"](https://sun4.userapi.com/sun4-10/s/v1/if2/lCf2uyIPd1_nilziE0JqRk3Yw2LRHRdkdQnaBtpqrHY8j2w_Hk2OHJRZE7Ji_j-hha1bBOO97-5tWGbGrSk3TZOm.jpg?size=2560x1349&quality=95&type=album "123")
+
+## 1.5. Vectors and Vector Transposition <a name="vectors"></a>
+
+!["123"](https://sun9-east.userapi.com/sun9-24/s/v1/if2/EOWWYISx9nFYc0Mq4q6y20OW5Kcepm56eWTRcDk062HI7fgeECwKaW1OlV2NRq9xqkOVMjPSKniA-uj6Jeys7_qN.jpg?size=2560x1491&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-38/s/v1/if2/KikkrFANgTM1f-1qnjq1zj7-JDd3131MXN7H4usM3LL4iNdpma30LeYDHWttC1gkkFp60FYb8K6S68uVTe36wdil.jpg?size=2560x1335&quality=95&type=album "123")
+
+## 1.6. Norms and Unit Vectors <a name="norms"></a>
+
 
