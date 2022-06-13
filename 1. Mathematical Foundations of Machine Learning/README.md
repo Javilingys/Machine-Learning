@@ -100,6 +100,11 @@
 !["123"](https://sun9-east.userapi.com/sun9-35/s/v1/if2/5nShEd6lKdJLr6EnkCZalRd68P5IBbtUICJNzqzMmgWoES07N9aJJOJoTWFLyeL0qgRtnVBp7-OXXm8ZbLee4-kc.jpg?size=647x785&quality=96&type=album "123")
 
 ## 2.3. Tensor Reduction <a name="reduction"></a>
+
+!["123"](https://sun9-east.userapi.com/sun9-20/s/v1/if2/YOWMpHY_tbxQ2DHn9iv9Pke32Xgu6-gDLGzKddXyPb8FpIMJbvhjj-K81cbRQeHdkWcH-fnqapxntvfR14gKriIO.jpg?size=1711x404&quality=96&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-50/s/v1/if2/WvvUsjyAGqg8PXsHCf7fHORKqeYw0ZDpoEZGKfEnTB_8T1jG6YNlpCnTVesGwg7OWPmM6F2VVMn8nlvIuJWXhnnE.jpg?size=557x476&quality=96&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-22/s/v1/if2/z-hnkIwfOkOtGsEqkhzvTvVF5mWx5QHLWGhvsgytq_kAW6IzzgEEw4BRKUQLh2uk2WU8MUhFrcemH9v6OggIAUk8.jpg?size=1307x695&quality=96&type=album "123")
+
 ## 2.4. The Dot Product <a name="dot_product"></a>
 ## 2.5. Exercises on Tensor Operations <a name="ex_section2"></a>
 ## 2.6. Solving Linear Systems with Substitution <a name="solve_subs"></a>
