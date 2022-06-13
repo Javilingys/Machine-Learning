@@ -9,6 +9,12 @@
     * [1.5. Vectors and Vector Transposition](#vectors)
     * [1.6. Norms and Unit Vectors](#norms)
     * [1.7. Basic, Orthogonal, and Orthonormal Vectors](#orthogonal)
+    * [1.8. Matrix Tensors](#matrix)
+    * [1.9. Generic Tensor Notation](#generic_notation)
+    * [1.10. Exercise](#ex_section1)
+* [2. Tensor Operations](#tensor_operations)
+    * [2.1. Tensor Transponation](#transponation)
+    
 
 # 1.	Data Structures for Linear Algebra <a name="data-structures-la"></a>
 ## 1.1.	What Linear Algebra Is? <a name="what-is-la"></a>
@@ -55,5 +61,21 @@
 !["123"](https://sun9-west.userapi.com/sun9-37/s/v1/if2/fWnSou4ow7M5h_6craXwX_Gb2GG52INppQvUMr1aGwfFR4hLUnnWsvXz73JHd9plB2Vakdw7znFP5Azk_1-Yfebw.jpg?size=2560x1383&quality=95&type=album "123")
 
 ## 1.7. Basic, Orthogonal, and Orthonormal Vectors <a name="orthogonal"></a>
+
+!["123"](https://sun9-east.userapi.com/sun9-29/s/v1/if2/e47RdljOwnwzxDQ2TO-Vu2man8iDZgQAX5JBrvkYVjas0udIvs3vsv9VeRLaaFMyJGmVs1WviCn9plS_ylgpc5de.jpg?size=2560x1427&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-45/s/v1/if2/j42qHw7r7PgDKLb8MSmh9uCeWi98XatsGPKBYetKD3qroVJ_Y3juqWEUviZNIOqj9airTJNj8mU96FbRXK8ZMO-r.jpg?size=2560x1439&quality=95&type=album "123")
+
+## 1.8. Matrix Tensors <a name="matrix"></a>
+
+!["123"](https://sun4.userapi.com/sun4-17/s/v1/if2/w-iSmGOCMdOzDWRZjxP9VW1D6jQ5lFeQqZP8fPqjtyVuBhbp9Y3wkDPaXxlUcx7_ss_9DxKVBGJG3VkyiLpITH6d.jpg?size=2560x1371&quality=95&type=album "123")
+
+## 1.9. Generic Tensor Notation <a name="generic_notation"></a>
+
+!["123"](https://sun9-north.userapi.com/sun9-88/s/v1/if2/LSbV93M8Yn2wDP2Yj1s6mGA7DZwWw2OOX-0dM5yiM68kfx7l9dfjRyH7LAg64VZeipSzEL9XfjG0bzKv0-CXmO3A.jpg?size=2560x594&quality=95&type=album "123")
+
+## 1.10. Exercise <a name="ex_section1"></a>
+
+!["123"](https://sun9-west.userapi.com/sun9-10/s/v1/if2/xTytYEmszf1w8ygONCbS0fy0yCxekmOmMnQcbY8ugTq33sbLtSRyx8EG06LIXcH_8ppfMo962Yle1GUsE87IyN3s.jpg?size=2560x1480&quality=95&type=album "123")
+!["123"](https://sun9-north.userapi.com/sun9-85/s/v1/if2/P_AHv78ZFSxFGE8t2tIYllXxpsc79tJgeJdcya1VUFRApsaXCY9ZSA5cbQvuGERfhRUbN34WE8AH6B8yBZia5YFW.jpg?size=2228x1792&quality=95&type=album "123")
 
 
