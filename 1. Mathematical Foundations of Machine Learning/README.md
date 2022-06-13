@@ -106,6 +106,10 @@
 !["123"](https://sun9-east.userapi.com/sun9-22/s/v1/if2/z-hnkIwfOkOtGsEqkhzvTvVF5mWx5QHLWGhvsgytq_kAW6IzzgEEw4BRKUQLh2uk2WU8MUhFrcemH9v6OggIAUk8.jpg?size=1307x695&quality=96&type=album "123")
 
 ## 2.4. The Dot Product <a name="dot_product"></a>
+
+!["123"](https://sun9-west.userapi.com/sun9-11/s/v1/if2/Cg747HrQqAkM4HT21cOaiC4b9rn098lskyjGhsvqb0gMpGrWRJqHg2xPsBvP-86rFCzl6FZsev54ULY04E0KAG5v.jpg?size=1390x774&quality=96&type=album "123")
+!["123"](https://sun9-north.userapi.com/sun9-80/s/v1/if2/XXZ48kN8mcJzwzDLUL98mawcQMeX4cKVTsDm0JJFB9gMJHo8uavC2pXS1yXQptnNfznQcTiDuirAg_cWECdjtN8M.jpg?size=900x709&quality=96&type=album "123")
+
 ## 2.5. Exercises on Tensor Operations <a name="ex_section2"></a>
 ## 2.6. Solving Linear Systems with Substitution <a name="solve_subs"></a>
 ## 2.7. Solving Linear Systems with Elimination <a name="solve_elim"></a>
