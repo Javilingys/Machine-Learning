@@ -88,7 +88,17 @@
 # 2.	Tensor Operations <a name="tensor_operations"></a>
 ## 2.1.	Tensor Transponation <a name="transponation"></a>
 
+!["123"](https://sun9-west.userapi.com/sun9-1/s/v1/if2/NBZ2lGxXAcJyQw6Nr9mx242N87qg_taK8a4a_-Z2lA_CSGB_PAhQcAGpd7ns8Xw23ysKnrQDSXgSYOtQBTl2c-tP.jpg?size=2560x1412&quality=95&type=album "123")
+
 ## 2.2. Basic Tensor Arithmetic, incl. the Hadamard Product <a name="basic_arithmetic"></a>
+
+!["123"](https://sun9-west.userapi.com/sun9-39/s/v1/if2/_Q71P9VadoTrdqoIx8m6VGKooVjDse3DKuW7DUCFG06jmTUg9Xjl_zQ9fh_zS1AF29OJ447HQPWfGt43bMcrbjAv.jpg?size=243x115&quality=96&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-20/s/v1/if2/hxd5pzLQigy_6rP6OVYD35so2-GAT3qNQRzMB9B5zY51se2nOWWeHwdIoeC5rpC2EyecPbMWibeI4yMv-D7M_0R-.jpg?size=1063x751&quality=96&type=album "123")
+!["123"](https://sun9-north.userapi.com/sun9-77/s/v1/if2/Szh7lF-ZLQSUqG6RyVFh6fkFxTzlDOIkKQRwxePJal7ijH0BeUzJtqrNWbf9ibwcsuttHT2pvShN8jH9mkA5wRkR.jpg?size=907x346&quality=96&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-52/s/v1/if2/kB-3qubRUDEXxuOUb0xyz6tdVaE85lN3RIJjNTh_YOwThqanau4uTAXg8HyOLEvKTeHht7s6AObjsh8ifhSKFBwk.jpg?size=1718x230&quality=96&type=album "123")
+!["123"](https://sun9-north.userapi.com/sun9-84/s/v1/if2/rBlnMJpKBDS-5SVmihbbqmw8yXGOfGYkBThvUdHCXQyzd4-PJnvNY7UkozMiHm7iF2dKCbvKWCBa9mtI613Cogo8.jpg?size=421x628&quality=96&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-35/s/v1/if2/5nShEd6lKdJLr6EnkCZalRd68P5IBbtUICJNzqzMmgWoES07N9aJJOJoTWFLyeL0qgRtnVBp7-OXXm8ZbLee4-kc.jpg?size=647x785&quality=96&type=album "123")
+
 ## 2.3. Tensor Reduction <a name="reduction"></a>
 ## 2.4. The Dot Product <a name="dot_product"></a>
 ## 2.5. Exercises on Tensor Operations <a name="ex_section2"></a>
