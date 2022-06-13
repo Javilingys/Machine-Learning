@@ -14,7 +14,14 @@
     * [1.10. Exercise](#ex_section1)
 * [2. Tensor Operations](#tensor_operations)
     * [2.1. Tensor Transponation](#transponation)
-    
+    * [2.2. Basic Tensor Arithmetic, incl. the Hadamard Product](#basic_arithmetic)
+    * [2.3. Tensor Reduction](#reduction)
+    * [2.4. The Dot Product](#dot_product)
+    * [2.5. Exercises on Tensor Operations](#ex_section2)
+    * [2.6. Solving Linear Systems with Substitution](#solve_subs)
+    * [2.7. Solving Linear Systems with Elimination](#solve_elim)
+    * [2.8. Visualizaing Linear Systems](#visual_ls)
+
 
 # 1.	Data Structures for Linear Algebra <a name="data-structures-la"></a>
 ## 1.1.	What Linear Algebra Is? <a name="what-is-la"></a>
@@ -78,4 +85,13 @@
 !["123"](https://sun9-west.userapi.com/sun9-10/s/v1/if2/xTytYEmszf1w8ygONCbS0fy0yCxekmOmMnQcbY8ugTq33sbLtSRyx8EG06LIXcH_8ppfMo962Yle1GUsE87IyN3s.jpg?size=2560x1480&quality=95&type=album "123")
 !["123"](https://sun9-north.userapi.com/sun9-85/s/v1/if2/P_AHv78ZFSxFGE8t2tIYllXxpsc79tJgeJdcya1VUFRApsaXCY9ZSA5cbQvuGERfhRUbN34WE8AH6B8yBZia5YFW.jpg?size=2228x1792&quality=95&type=album "123")
 
+# 2.	Tensor Operations <a name="tensor_operations"></a>
+## 2.1.	Tensor Transponation <a name="transponation"></a>
 
+## 2.2. Basic Tensor Arithmetic, incl. the Hadamard Product <a name="basic_arithmetic"></a>
+## 2.3. Tensor Reduction <a name="reduction"></a>
+## 2.4. The Dot Product <a name="dot_product"></a>
+## 2.5. Exercises on Tensor Operations <a name="ex_section2"></a>
+## 2.6. Solving Linear Systems with Substitution <a name="solve_subs"></a>
+## 2.7. Solving Linear Systems with Elimination <a name="solve_elim"></a>
+## 2.8. Visualizaing Linear Systems <a name="visual_ls"></a>
