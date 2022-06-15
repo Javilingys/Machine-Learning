@@ -111,6 +111,28 @@
 !["123"](https://sun9-north.userapi.com/sun9-80/s/v1/if2/XXZ48kN8mcJzwzDLUL98mawcQMeX4cKVTsDm0JJFB9gMJHo8uavC2pXS1yXQptnNfznQcTiDuirAg_cWECdjtN8M.jpg?size=900x709&quality=96&type=album "123")
 
 ## 2.5. Exercises on Tensor Operations <a name="ex_section2"></a>
+
+!["123"](https://sun9-east.userapi.com/sun9-58/s/v1/if2/u0hglzKvh-ZH8cl2KI0X9CFirCUhYNbtX84tW8uswL71LcDL1hNoqarqzHCSkaAkeQJ6z6HP-qKw1jM0Ez_1pXyz.jpg?size=2560x1694&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-66/s/v1/if2/T64CMtYYf55YkMyRY3Mtz7D5sfQsWHSL8OLRtP0g4W4lfjaI8JzzCeR4OB852pi6Ejg3f_YWkI3mcl-QLNuEcpNx.jpg?size=2560x1349&quality=95&type=album "123")
+
 ## 2.6. Solving Linear Systems with Substitution <a name="solve_subs"></a>
+
+!["123"](https://sun9-west.userapi.com/sun9-40/s/v1/if2/PJF3PUIPObKxQrGtOaou6h8ZWYWgXNuKZILf8bqMv1ylRzHCkbXbM_JMUtNN3l_zpRAv0dqQTyjDBePnqw6Quiya.jpg?size=2560x1083&quality=95&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-36/s/v1/if2/rq785Cc5A971t-W1FQnGRVtKzV92fnEl6v1yUOEg30cFXx_3ZqdS_NzHrsEtPu6gHOsP7W8NYTcQ-zT8GOhCgTUQ.jpg?size=2304x1792&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-48/s/v1/if2/cF_1cigB9_eeOu_7i0Md6xLSa5WjlrXIKoi3Ir29R88iEc1J4rcMzLId_Tx7AMrceReofMtoMqzOu2HgGO_fvlZG.jpg?size=2560x1362&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-65/s/v1/if2/pajAMuLhSWnLbljJspgpAfjurFw49rHJ3G9oT6cnL6FMgbLhIS0roKt5cxSFw6eo8B-iT3YjqqRFCG_Bf0g83wK7.jpg?size=2118x1686&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-51/s/v1/if2/VUPnsSFLMeBZAjMNBlrQHw1YXLAl9q-6zmnZ4c-9rvy-dZRfMcNdBKQB_buF6b8-gei87Lls4Q4-8gnG4WJ53-U9.jpg?size=2554x1792&quality=95&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-19/s/v1/if2/uifKVRC_cKpCoyut1sg1U0yN7Om-JgCFw0PlxjIE94OE-C7OcZqO02n2jhsIXq7APGNHbP8wnSKCRjkwXGp-DJFu.jpg?size=2272x1792&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-56/s/v1/if2/KoDXdtJJOuO234bXeSu3rGtAvOhJ2CmIMvx141V6YWH7bFmBc29cbSHERXT8FU_tEk4a7as4soBjtxFSBafD177z.jpg?size=1436x1792&quality=95&type=album "123")
+
 ## 2.7. Solving Linear Systems with Elimination <a name="solve_elim"></a>
+
+!["123"](https://sun9-east.userapi.com/sun9-58/s/v1/if2/qXh4JpALcIl_9z-LAPz3Ns782VqQ4NZ7oWjEb3tQnbV19bavuPJl3MHw2IAxN8o6qJVGXK0Ro4A3UutyzuSO1xBQ.jpg?size=2560x1354&quality=95&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-73/s/v1/if2/90DOUCL3I2phX95uP0z4wDzs4HRsSPKLXnw-FqT3u7NnOZLg7Ktds8Xaure2nCmyPB8vybo3lMRfcZcRVneCh7jt.jpg?size=2388x1790&quality=95&type=album "123")
+!["123"](https://sun9-north.userapi.com/sun9-77/s/v1/if2/0xn5Yia_16KCbomICQOFZcypuct70jUVALLHaII0tkMIBU26EkAVl4IMtpwMx6Fh_IoRF1O0t8TfbEwIVAXQ2TLF.jpg?size=2560x1377&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-63/s/v1/if2/2CHoIFhtR3fihoAgfQcaTZXZX4AB7oBo6Un9jWUMF-afUM6mCezc1WyWHp83Yt5iqOCpjntsqo5QYVUD3ioQxE2N.jpg?size=1573x1210&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-8/s/v1/if2/KcbSxNJXSqmvmO-EwLPJEoUiJem9Nm6cIOjS-hoXS3_lGn3iu7BHJBLKQ6iMQtO61BbipG65UADYrj7bthVl7i0Q.jpg?size=2214x1792&quality=95&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-18/s/v1/if2/sjjxI_Co-F_M5AyHlpdURvoSM9SnIWnIam6Poie4UZsRn8dmEU9kviAKU2JTfFN9OVUIhtAKeFUH7gDRnbxxSr8t.jpg?size=2202x1800&quality=95&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-44/s/v1/if2/-4HXxr9HlcvzMlzZBe-b1NQ63r3qU21uIZUxKDiZ93VPOa8ZESNcN3lMDSnlmFZZWedU25GjUSREfxoP3ZleG1nH.jpg?size=1802x1792&quality=95&type=album "123")
+
 ## 2.8. Visualizaing Linear Systems <a name="visual_ls"></a>
