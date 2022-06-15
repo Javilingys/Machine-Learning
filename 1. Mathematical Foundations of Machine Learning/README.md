@@ -20,7 +20,15 @@
     * [2.5. Exercises on Tensor Operations](#ex_section2)
     * [2.6. Solving Linear Systems with Substitution](#solve_subs)
     * [2.7. Solving Linear Systems with Elimination](#solve_elim)
-    * [2.8. Visualizaing Linear Systems](#visual_ls)
+* [3. Matrix Properties](#matrix_props)
+    * [3.1. The Frobenius Norm](#frobenius)
+    * [3.2. Matrix Multiplication](#matrix_mult)
+    * [3.3. Symmetric and Identity Matrices](#sym_identity_matrix)
+    * [3.4. Matrix Multiplication Exercises](#matrix_mult_ex)
+    * [3.5. Matrix Inversion](#matrix_invesrion)
+    * [3.6. Diagonal Matrices](#diagonal_m)
+    * [3.7. Orthogonal Matrices](#orthogonal_matrix)
+    * [3.8. Orthogonal Matrix Exercises](#orthogonal_matrix_ex)
 
 
 # 1.	Data Structures for Linear Algebra <a name="data-structures-la"></a>
@@ -135,4 +143,35 @@
 !["123"](https://sun9-east.userapi.com/sun9-18/s/v1/if2/sjjxI_Co-F_M5AyHlpdURvoSM9SnIWnIam6Poie4UZsRn8dmEU9kviAKU2JTfFN9OVUIhtAKeFUH7gDRnbxxSr8t.jpg?size=2202x1800&quality=95&type=album "123")
 !["123"](https://sun9-east.userapi.com/sun9-44/s/v1/if2/-4HXxr9HlcvzMlzZBe-b1NQ63r3qU21uIZUxKDiZ93VPOa8ZESNcN3lMDSnlmFZZWedU25GjUSREfxoP3ZleG1nH.jpg?size=1802x1792&quality=95&type=album "123")
 
-## 2.8. Visualizaing Linear Systems <a name="visual_ls"></a>
+# 3. Matrix Properties <a name="matrix_props"></a>
+
+## 3.1. The Frobenius Norm <a name="frobenius"></a>
+
+
+
+## 3.2. Matrix Multiplication <a name="matrix_mult"></a>
+
+
+
+## 3.3. Symmetric and Identity Matrices <a name="sym_identity_matrix"></a>
+
+
+
+## 3.4. Matrix Multiplication Exercises <a name="matrix_mult_ex"></a>
+
+
+
+## 3.5. Matrix Inversion <a name="matrix_invesrion"></a>
+
+
+
+## 3.6. Diagonal Matrices <a name="diagonal_m"></a>
+
+
+
+## 3.7. Orthogonal Matrices <a name="orthogonal_matrix"></a>
+
+
+
+## 3.8. Orthogonal Matrix Exercises <a name="orthogonal_matrix_ex"></a>
+
