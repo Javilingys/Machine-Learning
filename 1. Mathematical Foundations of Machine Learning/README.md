@@ -147,11 +147,16 @@
 
 ## 3.1. The Frobenius Norm <a name="frobenius"></a>
 
-
+!["123"](https://sun9-east.userapi.com/sun9-41/s/v1/if2/yWqcSxUXyKxx0LuL_ZtXL2nedGVj_7oBEBC3asNbuIYwCFiSBF_YzG4gxpg68-I_3hJEQdaN2hZHuIqZtNjI7eyO.jpg?size=2560x1272&quality=95&type=album "123")
 
 ## 3.2. Matrix Multiplication <a name="matrix_mult"></a>
 
-
+!["123"](https://sun9-west.userapi.com/sun9-64/s/v1/if2/wVLecJuAP3t3ofySgYIXtbsG6Tm9fER2J2HrS3NSS0no_yXg2geK-aXHLdg6PrL8IIAxwzYMuuPTRHV3J3s-xzBV.jpg?size=2560x1586&quality=95&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-18/s/v1/if2/7XeS3tywCezxKsMaskKkyX06tdpMdpd37eKyUi5S6yjRkg2-CAn1MxCn9U3FrbsnpkesNOW0wLSljcaKQ_Uw7FBn.jpg?size=2560x1329&quality=95&type=album "123")
+!["123"](https://sun4.userapi.com/sun4-12/s/v1/if2/6f4KFN1SCIyuqDBAt7-brzaX1b3AiKij8mFwSB62i7Z8hBJT86Amn_8lVFICp9WK0Bmq_-xvXuALkLjwOaoS7FjU.jpg?size=2560x1399&quality=95&type=album "123")
+!["123"](https://sun9-north.userapi.com/sun9-77/s/v1/if2/bEfzB2k0vP5kwPSGL39-Qbtv2je2PjIU_kRsOWVKfLnf1eH9TPA05io8iK1HxP7y0lDWsvhtpdUnnk32ERvkpMkP.jpg?size=2560x1497&quality=95&type=album "123")
+!["123"](https://sun9-west.userapi.com/sun9-12/s/v1/if2/Jqp9V1NpGanWyMgKPox8UvV09r5vGTZo64P8oFtlppQryK2m6aBtzFuoGuUU_L9TDsIeIexPA78_FtxD991yAYwT.jpg?size=2560x1370&quality=95&type=album "123")
+!["123"](https://sun9-east.userapi.com/sun9-20/s/v1/if2/5aMv4qYwP1PCdL0tl8rZQmauoti0nknmW8cxpj9KB231Z7rXFGnRGLggx-3WI_MRaI1TpaN1LgoVtJ8CNGUQeDOb.jpg?size=2560x1383&quality=95&type=album "123")
 
 ## 3.3. Symmetric and Identity Matrices <a name="sym_identity_matrix"></a>
 
